@@ -1,0 +1,10 @@
+exports.API_ENDPOINT_NOT_FOUND_ERR = "Api endpoint is not found";
+exports.SERVER_ERR = "Something went wrong";
+exports.USER_NOT_FOUND_ERR = "User not found";
+exports.PARAMETER_MISSING = "Missing parameters"
+exports.INCORRECT_TYPE = "incorrect data type for request parameters"
+exports.TEXT_EMPTY = "discussion text can't be empty"
+exports.ACCESS_DENIED_ERR = "Access deny for normal user";
+exports.API_ERROR= "Error while performing the action";
+exports.TIMESTAMP_ERROR= "Invalid timestamp";
+exports.NOT_ENOUGH_TAGS= "Need atleast one tag to search"

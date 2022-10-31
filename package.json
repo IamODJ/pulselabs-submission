@@ -1,0 +1,20 @@
+{
+  "name": "pulselabs-backend",
+  "version": "1.0.0",
+  "main": "app/src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app/src/index.js",
+    "dev": "nodemon app/src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.25.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
